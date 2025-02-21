@@ -9,4 +9,5 @@ Verwende eine Schleife und eine Bedingung, um sicherzustellen, dass nur positive
 
 ### Beispiel:
 Eingabe: {1, -2, 3, -4, 5}
+
 Ausgabe: 9 (Summe der positiven Zahlen)
