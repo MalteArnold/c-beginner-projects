@@ -7,6 +7,6 @@ string Wochentag(int zahl)
     return tag;
 }
 
-int input = 7;
+int input = 5;
 string tag = Wochentag(input);
 Console.WriteLine(tag);
