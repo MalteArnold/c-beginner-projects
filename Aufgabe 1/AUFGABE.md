@@ -8,6 +8,6 @@ Du kannst die ArrayList oder List<int> verwenden.
 Verwende eine Schleife und eine Bedingung, um sicherzustellen, dass nur positive Zahlen summiert werden.
 
 ### Beispiel:
-Eingabe: {1, -2, 3, -4, 5}
+Eingabe: `{1, -2, 3, -4, 5}`
 
-Ausgabe: 9 (Summe der positiven Zahlen)
+Ausgabe: `9` (Summe der positiven Zahlen)
