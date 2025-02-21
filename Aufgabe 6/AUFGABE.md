@@ -1,4 +1,4 @@
-# Übung 8: Umkehren einer Liste
+# Übung 6: Umkehren einer Liste
 
 ### Aufgabe:
 Schreibe eine Funktion, die eine Liste von Ganzzahlen erhält und die Liste in umgekehrter Reihenfolge zurückgibt.
